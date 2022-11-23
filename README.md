@@ -8,9 +8,10 @@
     # target = pyautogui.screenshot(region=[720,20,475,1000])
  
 使用方法:
-  1.安装项目依赖
+  1.解压并进入文件夹
+  2.安装项目依赖
     pip install -r requirement.txt
-  2.使用
+  3.使用命令
     python dailyQR.py(使用前先把当前文件夹给隐藏了,不然会点文件夹的图标)
  最后代码写的垃圾但是很实用
    
