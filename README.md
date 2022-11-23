@@ -19,3 +19,9 @@
  效果:
    将截图发到你想发的会话,其他提交方式可自己根据源码去修改
  最后代码写的垃圾能用就好了
+
+问题:安装requirements.txt如果报错请尝试
+pip install opencv-python
+pip install pywin32
+pip install wxauto
+pip install pyautogui
