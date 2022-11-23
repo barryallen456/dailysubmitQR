@@ -58,5 +58,5 @@ sleep(0.5)
 
 wx=WeChat()
 wx.GetSessionList()
-wx.ChatWith("何泽帆")
+wx.ChatWith("我是人名")
 wx.SendFiles(os.getcwd()+"/target.png")
